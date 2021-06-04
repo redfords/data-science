@@ -18,7 +18,7 @@ Statistics with R capstone project.
 
 [Statistics with R - Coursera](https://www.coursera.org/specializations/statistics)
 
-[R for Data Science by Garrett Grolemund, Hadley Wickham](https://r4ds.had.co.nz/)
+[R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
 [UC Berkeley Foundations of Data Science](http://data8.org/)
 
