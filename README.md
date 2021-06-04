@@ -20,5 +20,5 @@ Statistics with R capstone project.
 
 [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
-[UC Berkeley Foundations of Data Science](http://data8.org/)
+[Foundations of Data Science - UC Berkeley](http://data8.org/)
 
