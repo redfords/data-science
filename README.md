@@ -12,7 +12,7 @@ Linear regression and modeling.
 
 Bayesian statistics.
 
-Statistics with R capstone.
+Statistics with R capstone project.
 
 ## Resources
 
