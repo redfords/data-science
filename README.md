@@ -1,18 +1,18 @@
-# Statistics with R
+# Applied Data Science with Python
 
-Learn to analyze and visualize data in R and create reproducible data analysis reports, perform frequentist and Bayesian statistical inference and modeling to understand natural phenomena and make data-based decisions, communicate statistical results correctly, effectively, and in context, critique data-based claims and evaluated data-based decisions, and wrangle and visualize data with R packages for data analysis.    
+This skills-based specialization is intended for learners who want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular Python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
 
 ## Contents
 
-Introduction to probability and data with R.
+Introduction to Data Science in Python.
 
-Inferential statistics.
+Applied Plotting, Charting & Data Representation in Python.
 
-Linear regression and modeling.
+Applied Machine Learning in Python.
 
-Bayesian statistics.
+Applied Text Mining in Python.
 
-Statistics with R capstone project.
+Applied Social Network Analysis in Python.
 
 ## Resources
 
