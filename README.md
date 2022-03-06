@@ -16,9 +16,9 @@ Applied Social Network Analysis in Python.
 
 ## Resources
 
-[Statistics with R - Coursera](https://www.coursera.org/specializations/statistics)
+[Applied Data Science with Python - Coursera](https://www.coursera.org/specializations/data-science-python)
 
-[R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
 [Foundations of Data Science - UC Berkeley](http://data8.org/)
 
